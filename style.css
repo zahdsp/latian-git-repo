@@ -1,0 +1,29 @@
+body {
+    width: 100%;
+    margin: 30px;
+    background-color: antiquewhite;
+ }
+  
+ #profile-container{
+    max-width: 300px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 6px;
+ }
+  
+ #bg-img{
+    width: 60%;
+    height: auto;
+ }
+  
+ #title-img{
+    text-align: center;
+ }
+ /* #header {
+   width: 100%;
+   line-height: 50px;
+   height: 50px;
+   background-color: burlywood;
+   text-align: center;
+   color: white;
+} */
