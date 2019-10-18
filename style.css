@@ -5,14 +5,14 @@ body {
  }
   
  #profile-container{
-    max-width: 300px;
+    max-width: 800px;
     background-color: white;
     border: 1px solid gray;
     border-radius: 6px;
  }
   
  #bg-img{
-    width: 60%;
+    width: 100%;
     height: auto;
  }
   
